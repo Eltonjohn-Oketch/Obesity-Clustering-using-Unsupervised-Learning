@@ -2,6 +2,7 @@
 # Introduction
 
 This project will levearage various unsupervised methods of machine learning towards estimating people prone to or with Obesity through various ways of clustering and try to quantify the hidden patterns in the unlabelled data.
+
 ![image](https://user-images.githubusercontent.com/98347891/209231445-d2687810-7d19-4b2e-9a0e-e4224c208f31.png)
 
 # Project Overview(Description)
@@ -22,5 +23,7 @@ Distributed under the MIT License. See https://github.com/Eltonjohn-Oketch/Obesi
 # Model Methods
 
 Hierarchical clustering
+
 K-Means Clustering
+
 Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
