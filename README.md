@@ -27,3 +27,7 @@ Hierarchical clustering
 K-Means Clustering
 
 Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
+
+# Author
+
+Eltonjohn
